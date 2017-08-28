@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\jack\google drive\school docs\cs 211\lab7\lab7\vector.h(166): warning C4715: 'Vector<int>::getElementAt': not all control paths return a value
+  lab7.vcxproj -> C:\Users\Jack\Google Drive\school docs\CS 211\lab7\lab7\Debug\lab7.exe
+  lab7.vcxproj -> C:\Users\Jack\Google Drive\school docs\CS 211\lab7\lab7\Debug\lab7.pdb (Partial PDB)

@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1474562702 source:d:\cloud\google drive\teaching-private\2016 - fall cs 211\lectures\2016-09-22 queues 1\lecture\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<queue>
+	"StringSplitter.h"
+	"ArrayQueue.h"
+	"ListQueue.h"
+
+1474561376 d:\cloud\google drive\teaching-private\2016 - fall cs 211\lectures\2016-09-22 queues 1\lecture\stringsplitter.h
+	<string>
+	<vector>
+	<queue>
+
+1474562686 d:\cloud\google drive\teaching-private\2016 - fall cs 211\lectures\2016-09-22 queues 1\lecture\arrayqueue.h
+
+1474562840 d:\cloud\google drive\teaching-private\2016 - fall cs 211\lectures\2016-09-22 queues 1\lecture\listqueue.h
+	"LinkedListNode.h"
+
+1472438934 d:\cloud\google drive\teaching-private\2016 - fall cs 211\lectures\2016-09-22 queues 1\lecture\linkedlistnode.h
+

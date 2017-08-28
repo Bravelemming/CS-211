@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\jack\google drive\school docs\cs 211\lab8\lab8\stringsplitter.h(23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jack\google drive\school docs\cs 211\lab8\lab8\stringsplitter.h(37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  MA6.vcxproj -> C:\Users\Jack\Google Drive\school docs\CS 211\lab8\Lab8\x64\Debug\MA6.exe
+  MA6.vcxproj -> C:\Users\Jack\Google Drive\school docs\CS 211\lab8\Lab8\x64\Debug\MA6.pdb (Full PDB)
