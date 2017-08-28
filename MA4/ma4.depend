@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1474330643 source:d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma4\ma4\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"Stack.h"
+
+1474330689 d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma4\ma4\stack.h
+	"LinkedListNode.h"
+
+1472438934 d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma4\ma4\linkedlistnode.h
+

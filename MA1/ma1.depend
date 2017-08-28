@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1472439150 source:d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma1\ma1\main.cpp
+	<iostream>
+	<string>
+	"LinkedList.h"
+
+1472439182 d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma1\ma1\linkedlist.h
+	<stdexcept>
+	<initializer_list>
+	"LinkedListNode.h"
+	<utility>
+
+1472438934 d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma1\ma1\linkedlistnode.h
+
+1472439150 source:d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma1\ma1 - starter\main.cpp
+	<iostream>
+	<string>
+	"LinkedList.h"
+
+1472439182 d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma1\ma1 - starter\linkedlist.h
+	<stdexcept>
+	<initializer_list>
+	"LinkedListNode.h"
+	<utility>
+
+1472438934 d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma1\ma1 - starter\linkedlistnode.h
+

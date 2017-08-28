@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\jack\desktop\school files\cs 211\ma3\ma3\main.cpp(21): warning C4018: '<': signed/unsigned mismatch
+  MA3.vcxproj -> C:\Users\Jack\Desktop\school files\cs 211\MA3\MA3\Debug\MA3.exe
+  MA3.vcxproj -> C:\Users\Jack\Desktop\school files\cs 211\MA3\MA3\Debug\MA3.pdb (Partial PDB)
