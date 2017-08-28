@@ -1,0 +1,167 @@
+# depslib dependency file v1.0
+1478188743 source:d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma8\ma8\main.cpp
+	"ADTs\HashTables\HasherFactory.h"
+	"ADTs\HashTables\LinearHashTable.h"
+	"ADTs\HashTables\BucketHashTable.h"
+	"ADTs\HashTables\DoubleHashTable.h"
+	"ADTs\HashTables\QuadraticHashTable.h"
+	<string>
+	<iostream>
+	<cstdlib>
+	<chrono>
+
+1478188060 d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma8\ma8\adts\hashtables\hasherfactory.h
+	"SimpleStringHasher.h"
+	"StudentHasher.h"
+	<typeinfo>
+
+1442090310 d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma8\ma8\adts\hashtables\simplestringhasher.h
+	"HasherBase.h"
+	<string>
+
+1441604182 d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma8\ma8\adts\hashtables\hasherbase.h
+
+1478189054 d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma8\ma8\adts\hashtables\studenthasher.h
+	"HasherBase.h"
+	<string>
+
+1478188976 d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma8\ma8\adts\hashtables\linearhashtable.h
+	<stdexcept>
+	"HashTableBase.h"
+
+1442104844 d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma8\ma8\adts\hashtables\hashtablebase.h
+	<utility>
+	<exception>
+	<vector>
+	"HashItem.h"
+	"HasherBase.h"
+	"HasherFactory.h"
+
+1410747756 d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma8\ma8\adts\hashtables\hashitem.h
+	<utility>
+
+1478188948 d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma8\ma8\adts\hashtables\buckethashtable.h
+	"HashTableBase.h"
+	"HashItem.h"
+	<vector>
+	<stdexcept>
+
+1478188705 d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma8\ma8\adts\hashtables\doublehashtable.h
+	<string>
+	<sstream>
+	"LinearHashTable.h"
+
+1478188717 d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma8\ma8\adts\hashtables\quadratichashtable.h
+	"LinearHashTable.h"
+
+1478189221 source:d:\cloud\gdrive\teaching-public\2016 - fall cs 211\homework\ma8\ma8 - starter\main.cpp
+	"ADTs\HashTables\HasherFactory.h"
+	"ADTs\HashTables\LinearHashTable.h"
+	"ADTs\HashTables\BucketHashTable.h"
+	"ADTs\HashTables\DoubleHashTable.h"
+	"ADTs\HashTables\QuadraticHashTable.h"
+	<string>
+	<iostream>
+	<cstdlib>
+	<chrono>
+
+1478188060 d:\cloud\gdrive\teaching-public\2016 - fall cs 211\homework\ma8\ma8 - starter\adts\hashtables\hasherfactory.h
+	"SimpleStringHasher.h"
+	"StudentHasher.h"
+	<typeinfo>
+
+1442090310 d:\cloud\gdrive\teaching-public\2016 - fall cs 211\homework\ma8\ma8 - starter\adts\hashtables\simplestringhasher.h
+	"HasherBase.h"
+	<string>
+
+1441604182 d:\cloud\gdrive\teaching-public\2016 - fall cs 211\homework\ma8\ma8 - starter\adts\hashtables\hasherbase.h
+
+1478189180 d:\cloud\gdrive\teaching-public\2016 - fall cs 211\homework\ma8\ma8 - starter\adts\hashtables\studenthasher.h
+	"HasherBase.h"
+	<string>
+
+1478188976 d:\cloud\gdrive\teaching-public\2016 - fall cs 211\homework\ma8\ma8 - starter\adts\hashtables\linearhashtable.h
+	<stdexcept>
+	"HashTableBase.h"
+
+1442104844 d:\cloud\gdrive\teaching-public\2016 - fall cs 211\homework\ma8\ma8 - starter\adts\hashtables\hashtablebase.h
+	<utility>
+	<exception>
+	<vector>
+	"HashItem.h"
+	"HasherBase.h"
+	"HasherFactory.h"
+
+1410747756 d:\cloud\gdrive\teaching-public\2016 - fall cs 211\homework\ma8\ma8 - starter\adts\hashtables\hashitem.h
+	<utility>
+
+1478188948 d:\cloud\gdrive\teaching-public\2016 - fall cs 211\homework\ma8\ma8 - starter\adts\hashtables\buckethashtable.h
+	"HashTableBase.h"
+	"HashItem.h"
+	<vector>
+	<stdexcept>
+
+1478188705 d:\cloud\gdrive\teaching-public\2016 - fall cs 211\homework\ma8\ma8 - starter\adts\hashtables\doublehashtable.h
+	<string>
+	<sstream>
+	"LinearHashTable.h"
+
+1478188717 d:\cloud\gdrive\teaching-public\2016 - fall cs 211\homework\ma8\ma8 - starter\adts\hashtables\quadratichashtable.h
+	"LinearHashTable.h"
+
+1478185620 source:c:\users\jack\google drive\school docs\cs 211\ma8\ma8\main.cpp
+	"ADTs\HashTables\HasherFactory.h"
+	"ADTs\HashTables\LinearHashTable.h"
+	"ADTs\HashTables\BucketHashTable.h"
+	"ADTs\HashTables\DoubleHashTable.h"
+	"ADTs\HashTables\QuadraticHashTable.h"
+	<string>
+	<iostream>
+	<cstdlib>
+	<chrono>
+
+1478184460 c:\users\jack\google drive\school docs\cs 211\ma8\ma8\adts\hashtables\hasherfactory.h
+	"SimpleStringHasher.h"
+	"StudentHasher.h"
+	<typeinfo>
+
+1442086710 c:\users\jack\google drive\school docs\cs 211\ma8\ma8\adts\hashtables\simplestringhasher.h
+	"HasherBase.h"
+	<string>
+
+1441600582 c:\users\jack\google drive\school docs\cs 211\ma8\ma8\adts\hashtables\hasherbase.h
+
+1478585093 c:\users\jack\google drive\school docs\cs 211\ma8\ma8\adts\hashtables\studenthasher.h
+	<math.h>
+	"HasherBase.h"
+	<string>
+
+1478185376 c:\users\jack\google drive\school docs\cs 211\ma8\ma8\adts\hashtables\linearhashtable.h
+	<stdexcept>
+	"HashTableBase.h"
+
+1478207080 c:\users\jack\google drive\school docs\cs 211\ma8\ma8\adts\hashtables\hashtablebase.h
+	<utility>
+	<exception>
+	<vector>
+	"HashItem.h"
+	"HasherBase.h"
+	"HasherFactory.h"
+
+1410744156 c:\users\jack\google drive\school docs\cs 211\ma8\ma8\adts\hashtables\hashitem.h
+	<utility>
+
+1478185348 c:\users\jack\google drive\school docs\cs 211\ma8\ma8\adts\hashtables\buckethashtable.h
+	"HashTableBase.h"
+	"HashItem.h"
+	<vector>
+	<stdexcept>
+
+1478185104 c:\users\jack\google drive\school docs\cs 211\ma8\ma8\adts\hashtables\doublehashtable.h
+	<string>
+	<sstream>
+	"LinearHashTable.h"
+
+1478185116 c:\users\jack\google drive\school docs\cs 211\ma8\ma8\adts\hashtables\quadratichashtable.h
+	"LinearHashTable.h"
+

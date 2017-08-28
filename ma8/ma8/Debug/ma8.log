@@ -1,0 +1,21 @@
+﻿  main.cpp
+c:\users\jack\google drive\school docs\cs 211\ma8\ma8\adts\hashtables\studenthasher.h(21): warning C4305: 'initializing': truncation from '__int64' to 'int'
+c:\users\jack\google drive\school docs\cs 211\ma8\ma8\adts\hashtables\studenthasher.h(21): warning C4309: 'initializing': truncation of constant value
+c:\users\jack\google drive\school docs\cs 211\ma8\ma8\adts\hashtables\linearhashtable.h(196): warning C4018: '>': signed/unsigned mismatch
+  c:\users\jack\google drive\school docs\cs 211\ma8\ma8\adts\hashtables\linearhashtable.h(183): note: while compiling class template member function 'std::string &LinearHashTable<std::string,std::string>::getElement(std::string)'
+  c:\users\jack\google drive\school docs\cs 211\ma8\ma8\main.cpp(64): note: see reference to class template instantiation 'LinearHashTable<std::string,std::string>' being compiled
+c:\users\jack\google drive\school docs\cs 211\ma8\ma8\adts\hashtables\linearhashtable.h(165): warning C4018: '>': signed/unsigned mismatch
+  c:\users\jack\google drive\school docs\cs 211\ma8\ma8\adts\hashtables\linearhashtable.h(154): note: while compiling class template member function 'bool LinearHashTable<std::string,std::string>::containsElement(Key)'
+          with
+          [
+              Key=std::string
+          ]
+c:\users\jack\google drive\school docs\cs 211\ma8\ma8\adts\hashtables\linearhashtable.h(140): warning C4018: '>': signed/unsigned mismatch
+  c:\users\jack\google drive\school docs\cs 211\ma8\ma8\adts\hashtables\linearhashtable.h(126): note: while compiling class template member function 'void LinearHashTable<std::string,std::string>::removeElement(Key)'
+          with
+          [
+              Key=std::string
+          ]
+  LINK : C:\Users\Jack\Google Drive\school docs\CS 211\ma8\ma8\Debug\ma8.exe not found or not built by the last incremental link; performing full link
+  ma8.vcxproj -> C:\Users\Jack\Google Drive\school docs\CS 211\ma8\ma8\Debug\ma8.exe
+  ma8.vcxproj -> C:\Users\Jack\Google Drive\school docs\CS 211\ma8\ma8\Debug\ma8.pdb (Partial PDB)

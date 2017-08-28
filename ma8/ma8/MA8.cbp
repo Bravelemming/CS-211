@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="MA8" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/MA8" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/MA8" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="ADTs/HashTables/BucketHashTable.h" />
+		<Unit filename="ADTs/HashTables/DoubleHashTable.h" />
+		<Unit filename="ADTs/HashTables/HashItem.h" />
+		<Unit filename="ADTs/HashTables/HashTableBase.h" />
+		<Unit filename="ADTs/HashTables/HasherBase.h" />
+		<Unit filename="ADTs/HashTables/HasherFactory.h" />
+		<Unit filename="ADTs/HashTables/LinearHashTable.h" />
+		<Unit filename="ADTs/HashTables/QuadraticHashTable.h" />
+		<Unit filename="ADTs/HashTables/SimpleStringHasher.h" />
+		<Unit filename="ADTs/HashTables/StudentHasher.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
