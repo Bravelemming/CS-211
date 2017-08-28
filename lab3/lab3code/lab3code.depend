@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1474303171 source:u:\2016 - cs211\lab3\lab3code\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	"Point.h"
+
+1474303762 u:\2016 - cs211\lab3\lab3code\point.h
+	<string>
+	<sstream>
+
+1474311180 source:t:\asc564\2016 - cs211.02\lab3\lab3code\main.cpp
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	"Point.h"
+	"RemoveGreenEffect.h"
+
+1474311103 t:\asc564\2016 - cs211.02\lab3\lab3code\point.h
+	<string>
+	<sstream>
+
+1474311079 t:\asc564\2016 - cs211.02\lab3\lab3code\removegreeneffect.h
+	"Point.h"
+	"SimpleImageEffect.h"
+	<vector>
+
+1474310988 t:\asc564\2016 - cs211.02\lab3\lab3code\simpleimageeffect.h
+	"Point.h"
+	<vector>
+

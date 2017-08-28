@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1474930377 source:u:\cs211\lab3\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	"Point.h"
+	"SimpleImageEffect.h"
+	"RemoveGreenEffect.h"
+	"RemoveBlueEffect.h"
+	"RemoveRedEffect.h"
+	"NegateRedEffect.h"
+	"NegateGreenEffect.h"
+	"NegateBlueEffect.h"
+	"AddRandomNoise.h"
+	"HighContrast.h"
+	"GrayscaleEffect.h"
+
+1474909383 u:\cs211\lab3\point.h
+	<string>
+	<sstream>
+
+1474304371 u:\cs211\lab3\simpleimageeffect.h
+	<vector>
+	"Point.h"
+
+1474928469 u:\cs211\lab3\removegreeneffect.h
+	"Point.h"
+	"SimpleImageEffect.h"
+	<vector>
+
+1474928469 u:\cs211\lab3\removeblueeffect.h
+	"Point.h"
+	"SimpleImageEffect.h"
+	<vector>
+
+1474917012 u:\cs211\lab3\removeredeffect.h
+	"Point.h"
+	"SimpleImageEffect.h"
+	<vector>
+
+1474917289 u:\cs211\lab3\negateredeffect.h
+	"Point.h"
+	"SimpleImageEffect.h"
+	<vector>
+
+1474917487 u:\cs211\lab3\negategreeneffect.h
+	"Point.h"
+	"SimpleImageEffect.h"
+	<vector>
+
+1474917587 u:\cs211\lab3\negateblueeffect.h
+	"Point.h"
+	"SimpleImageEffect.h"
+	<vector>
+
+1474928469 u:\cs211\lab3\addrandomnoise.h
+	"Point.h"
+	"SimpleImageEffect.h"
+	<vector>
+
+1474928469 u:\cs211\lab3\highcontrast.h
+	"Point.h"
+	"SimpleImageEffect.h"
+	<vector>
+
+1474928469 u:\cs211\lab3\grayscaleeffect.h
+	"Point.h"
+	"SimpleImageEffect.h"
+	<vector>
+

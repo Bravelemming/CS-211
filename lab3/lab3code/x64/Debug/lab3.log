@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\jack\google drive\school docs\cs 211\lab3\lab3code\stringsplitter.h(22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jack\google drive\school docs\cs 211\lab3\lab3code\stringsplitter.h(38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jack\google drive\school docs\cs 211\lab3\lab3code\main.cpp(105): error C2143: syntax error: missing ';' before 'for'
