@@ -1,0 +1,14 @@
+Jack Daniel Kinne
+PA 5 - Gradebook Aggregator
+Reflection Essay
+
+The most important lodestone I felt like I touched on this assignment -- what makes a 'good' program?  
+I looked back at my previous four programming assignments, and they were total garbage.  I used the extra time that was given us on this assignment to turn my programming assignment from "sphaghetti" into the leanest, best code I have ever written in my life.  It was also the most challenging data structure that I attempted, and it pushed me to my limits.  
+The largest challenge of this assignment was that data structure -- the concepts.  I went to the library and doodled on the whiteboard.  I made UML diagrams.  I drew it in the back of my notebook.  I dreamed about the way the pieces work.  Slowly, it started to make sense.  
+Contextually (in the sense of understand the pieces of code) this assignment was also the most challenging, because almost everything I did and wanted to do was new to me.  I had to find solutions constantly to small, individual problems as I encountered them.  
+I definitely made this assignment harder (and then easier) by using particularly unique data structures.  I couldn't really talk to my classmates about what I was doing, because most everyone was using a Umap of vectors, and I wasn't.  But in the end, the structures I chose made the formating much easier, in my opinion, after the fact.
+My best advice to future students this: Go over your data structure as elements flow into and out of it until you start dreaming about how they work.  And then double check yourself--if you can explain it to your roommate who is an art major and they understand, then congratualtions, you've got it.
+The most fun I had with this project was the relevation moments when I "got" a new element's function.  My mind kept expanding.  I recall once that I had one of my functions call another one of my functions.  Or when I used one line of code to create eight data objects, each of them tunnelling another level of recursion downward to create another.  
+I recommend in the future that instead of just one check in, we have three.  I really enjoyed that we had smaller milestone moments that demanded we show progress.  Perhaps those could be more loosely defined, but the idea was sound.  
+For this assignment, being given to us in the future, it would be nice to go over more CONTEXT and syntax of accessing elements, helpful functions that are neat/appropriate to the situation, and general tricks professionals use to make hard things easier.  Most of my solutions I made up on the spot, hitting a roadblock and having to think around it.  It would be great to have more tools in that particular tool kit.
+

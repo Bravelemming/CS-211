@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\jack\google drive\school docs\cs 211\pa4\pa4\main.cpp(122): warning C4018: '<': signed/unsigned mismatch
+  pa4.vcxproj -> C:\Users\Jack\Google Drive\school docs\CS 211\pa4\pa4\Debug\pa4.exe
+  pa4.vcxproj -> C:\Users\Jack\Google Drive\school docs\CS 211\pa4\pa4\Debug\pa4.pdb (Partial PDB)

@@ -1,0 +1,40 @@
+	//checkStands[(rand() % checkStands.size())].push(bob);
+
+//if there is a customer at the checkstand...
+		/*
+		for (int i; checkStands.size() > i; i++)
+		{
+			//and if someone is in line
+			if (checkStands[i].empty() != false)
+			{
+
+				// we need to do everything here!
+
+
+				//set departure
+				bob.set_departure_time(t + bob.get_service_time();
+			}
+			else {
+				if (departure time < )
+			}
+
+
+			//if the time is greater than arrival time
+			if (t > bob.get_arrival_time())
+			{
+				//write it out
+
+				//customer
+				Customer ;
+
+
+
+
+				//remove bob.
+				checkStands[i].pop();
+			}
+
+		}
+
+	}
+	*/

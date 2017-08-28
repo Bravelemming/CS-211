@@ -1,0 +1,24 @@
+/*
+Assignment: CS 211 - PA4
+Description: Cluster - Priority Queue
+Author: "Jack" Daniel Kinne
+HSU ID: 9395-18119
+Completion Time: 14 Hours
+I received help from the following people: Jack Witherell
+*/
+
+What was really great about this programming assignment was that I felt in control of the beast the entire time I was writing it.  The first struggle, as it always seems to be, was the logic parsing.  As i'm hitting more errors, though, the compiler is actually walking me through the fixes in real time, which feels a touch surreal when the computer is effectively helping me write the program.  
+This time, I chewed on the logic for a week and by the time I was in front of a computer, it flowed well.  
+The biggest struggle was the test points.  I mixed my loops briefly and was confusing my output logic so that the jobs wouldn't complete correctly. 
+
+An issue I was unable to resolve: I was unable to fix the logical loop to output to my CSV file. I don't know why I was getting an error on the bool overloading "operator", and while I fixed it with the "friend" designation, I still have a very limited understanding of why that worked or what its doing.  I was able to build without errors, so I know it was a logic error (three hour bug hunt was unsuccessful.)
+
+Future advice:  My God!  write one little piece.  test it.  write another little piece.  It was so much easier this time when I stuck to the hard lessons I learned from PA3 and PA2.  Don't get lost in the weeds by making your logic too complex in the looping; if you loose the thread, go back, don't go forward!
+
+Most fun:  I took a text file input and turned it into a CSV  (although the logic defied me)!  I was able to harvest some code and convert it to purpose, which was really nice.  Got extra practice and expanded a skillset, but more importantly I came into this project with more confidence than the last two, and that made all the difference.
+
+Most challenging:  this line:  
+"std::priority_queue<Job, std::vector<Job>, std::greater<Job> > cluster;"
+Made a standard library object of a priority queue, of job type, of a vector of jobs, with a comparison modifier that I had to import two specific libraries for, named cluster.   
+
+Suggestions:  Please don't give us code that is broken!  I spent a goodly sum of time hunting down what went wrong with that operator error, that wasn't necessarily important to project completion and a bit of a goose chase.  I loved talking through the data structure "behind the scenes"; which really assisted understanding to a high degree.

@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\jack\google drive\school docs\cs 211\pa3\pa3\main.cpp(21): warning C4018: '>': signed/unsigned mismatch
+c:\users\jack\google drive\school docs\cs 211\pa3\pa3\main.cpp(94): warning C4018: '>': signed/unsigned mismatch
+  PA3.vcxproj -> C:\Users\Jack\Google Drive\school docs\CS 211\pa3\PA3\Debug\PA3.exe
+  PA3.vcxproj -> C:\Users\Jack\Google Drive\school docs\CS 211\pa3\PA3\Debug\PA3.pdb (Partial PDB)
