@@ -1,0 +1,7 @@
+apples:4:1
+milk:3:2
+bread:3:1
+candy:10:1
+cheese:5:6
+oranges:3:2
+cherries:3:2

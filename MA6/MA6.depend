@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1475170118 source:d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma6\ma6 - solution\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<queue>
+	"StringSplitter.h"
+	"BinarySearchTree.h"
+
+1474561376 d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma6\ma6 - solution\stringsplitter.h
+	<string>
+	<vector>
+	<queue>
+
+1475170177 d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma6\ma6 - solution\binarysearchtree.h
+	"TreeNode.h"
+
+1475170131 d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma6\ma6 - solution\treenode.h
+
+1475170118 source:d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma6\ma6 - starter\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<queue>
+	"StringSplitter.h"
+	"BinarySearchTree.h"
+
+1474561376 d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma6\ma6 - starter\stringsplitter.h
+	<string>
+	<vector>
+	<queue>
+
+1475170177 d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma6\ma6 - starter\binarysearchtree.h
+	"TreeNode.h"
+
+1475170442 d:\cloud\google drive\teaching-private\2016 - fall cs 211\homework\ma6\ma6 - starter\treenode.h
+
+1475533866 source:c:\users\jack\google drive\school docs\cs 211\ma6\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<queue>
+	"StringSplitter.h"
+	"BinarySearchTree.h"
+	"TreeNode.h"
+	<cstdlib>
+
+1474561376 c:\users\jack\google drive\school docs\cs 211\ma6\stringsplitter.h
+	<string>
+	<vector>
+	<queue>
+
+1475170176 c:\users\jack\google drive\school docs\cs 211\ma6\binarysearchtree.h
+	"TreeNode.h"
+
+1475533865 c:\users\jack\google drive\school docs\cs 211\ma6\treenode.h
+	"BinarySearchTree.h"
+

@@ -1,0 +1,33 @@
+﻿  main.cpp
+  In file included from main.cpp:6:
+./BinarySearchTree.h(13,5): error : unknown type name 'TreeNode'
+      TreeNode<T> *_root = nullptr;
+      ^
+./BinarySearchTree.h(13,13): error : expected member name or ';' after declaration specifiers
+      TreeNode<T> *_root = nullptr;
+      ~~~~~~~~^
+./BinarySearchTree.h(17,13): error : unknown type name 'TreeNode'
+      virtual TreeNode<T> * addItemHelper(TreeNode<T> *root, T item)
+              ^
+./BinarySearchTree.h(17,21): error : expected member name or ';' after declaration specifiers
+      virtual TreeNode<T> * addItemHelper(TreeNode<T> *root, T item)
+      ~~~~~~~~~~~~~~~~^
+main.cpp(13,9): error : no member named 'addItem' in 'BinarySearchTree<int>'
+      bst.addItem(10);
+      ~~~ ^
+main.cpp(14,9): error : no member named 'addItem' in 'BinarySearchTree<int>'
+      bst.addItem(5);
+      ~~~ ^
+main.cpp(15,9): error : no member named 'addItem' in 'BinarySearchTree<int>'
+      bst.addItem(2);
+      ~~~ ^
+main.cpp(16,9): error : no member named 'addItem' in 'BinarySearchTree<int>'
+      bst.addItem(3);
+      ~~~ ^
+main.cpp(17,9): error : no member named 'addItem' in 'BinarySearchTree<int>'
+      bst.addItem(20);
+      ~~~ ^
+main.cpp(18,9): error : no member named 'addItem' in 'BinarySearchTree<int>'
+      bst.addItem(15);
+      ~~~ ^
+  10 errors generated.

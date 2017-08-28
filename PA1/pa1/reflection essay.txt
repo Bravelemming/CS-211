@@ -1,0 +1,26 @@
+/*
+Assignment: CS 211 - PA1
+
+Description: Grocery Store - Reflection Essay
+
+Author: "Jack" Daniel Kinne
+HSU ID: 9395-18119
+Completion Time: 9 Hours
+
+In completing this program, I received help from the following people:
+Brennan
+*/
+
+
+The first struggle I encountered on this project was the scope of things I was unfamiliar with.  I had never played with fstream, and I kept running into bugs with new and different issues, such as getline() and some more involved looping.  I broke the problems down into smaller pieces, and tackled them one at a time.  First, Fstream; I watched some video guides online and worked up from a small example case.  Then I implimented it, over and over, until I could do it without bugs.  As a matter of fact, my entire approach to this assignment was to break each piece down (commenting out the rest of the program) until I was sure it would execute.  Getline() was a particular beast--apparently it stops its input stream at a newline.  This I know, very very well, as a result of experimentation.  Coding seems to be full of those little vissicitudes.
+Some roadblocks I hit were little things I didn't expect, and others were larger.  I originally had the idea to use substr()--and the code to deploy that solution I left in my program.  While this was a "working" solution, it was pretty lackluster.  To begin with, it wouldn't be able to handle big problems, like items that went over ten in quantity (substr must be told how many spaces you want to grab)!  So I went back and switched over to using getline() and let me tell you, that was a process.  
+The entire assignment became much easier once I sat back and started thinking about the problem conceptially for a moment--what I might need to keep track of and how I could deploy solutions. 
+An issue I was unable to resolve was that of the vector: this was a critical error that could have been resolved with more time and attention to detail; I noticed that the one sentence I missed to close to the deadline--a very important one it turns out--was that our input would be tested against other objects not on said list.  Meaning that the number of objects may not be the same.  This would break my program as it was written!  Something that keeps me thinking about the program is the number of errors I haven't thought through yet--as in special input or options.
+Future advice: read the instructions TWO TIMES before you even start to think about coding.  And then draw out a plan.  Break that plan into pieces.  Then code one piece at a time.
+Most fun I had with this experience was definitely "getting my hands dirty" in the code itself.  There is something almost indescribable the first time you press the green arrow, and something other than an exception gets thrown up on the screen.  I definitely wrote a few hundred lines of code, and I like the feeling and practice.  I started this assignment feeling overwhelmed.  I ended it with a program that works and complies without errors.  Even with my critical error I'm proud of what I made and glad that I had the experience.  
+The most difficult part of the assignment to understand was taking the output and "reverse engineering" it for what was expected in the assignment.  I found myself going backwards a few times and implimenting something new a few times--such as tracking money spent.
+I think one suggestion I would have would be to list the objects required near the top of the page, for objects or data structures we will be playing with for said assignment.  That definitely would be a helpful touchstone for research and implimentation purposes, and would have saved me personally from potential errors on other input.  
+
+
+
+
